@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentServiceJava</string>
+    <string name="enqueuework">EnqueueWork</string>
+</resources>
